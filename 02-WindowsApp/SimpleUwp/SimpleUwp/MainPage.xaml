@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="SimpleUwp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SimpleUwp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <!-- 配置したUIコントロール -->
+        <!-- x:Nameに設定した名前はC#のソースコードから参照できる -->
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="194,238,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="229"/>
+        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="504,237,0,0" VerticalAlignment="Top" Click="button1_Click"/>
+
+    </Grid>
+</Page>
