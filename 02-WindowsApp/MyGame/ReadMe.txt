@@ -1,0 +1,2 @@
+変更している点はClassesのHelloWorld.cppとResourcesの中のsampleimage.pngだけなので
+ご自身でcocos newして変更しているファイルだけ上書きしてください
