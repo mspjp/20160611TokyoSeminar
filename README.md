@@ -12,7 +12,7 @@
 |時間                     |タイトル                 |
 | --- | --- |
 |13:00~13:15       |あいさつ&概要&MSPの説明|
-|13:20~13:50       |開発環境入門~VisualStudio,VSCode,C#の今~|
+|13:20~13:50       |[開発環境入門~VisualStudio,VSCode,C#の今~](https://github.com/mspjp/20160611TokyoSeminar/raw/master/01-VisualStudio/01-VisualStudio.pdf)|
 |13:55~14:25       |[Windowsアプリ入門~UniversalWindowsApp,cocos-2dxゲーム開発の基礎~](https://github.com/mspjp/20160611TokyoSeminar/blob/master/02-WindowsApp/Windows%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80.pptx?raw=true)  |
 |14:30~15:00       |[Web技術入門~ASP.netの基礎とWebアプリ作成方法~](https://github.com/mspjp/20160611TokyoSeminar/blob/master/03-ASP.NET/03-ASP.NET.pptx?raw=true)  |
 |15:00~15:10       |休憩  |
